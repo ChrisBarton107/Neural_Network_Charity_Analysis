@@ -14,10 +14,10 @@ The purpose of the analysis was to classify the success of charitable donations.
   - Hidden layer 2: 30 neurons; Activation function: ReLu
   - Output layer: One neuron (binary classification); Activation function: Sigmoid
 - The network achieved approximately 73% accuracy, falling short of the targeted outcome of 75% accuracy
-- Attempts to optimize performance were made, including
-  - Additional neurons in hidden layer
-  - Different activation functions in hidden layers
-  - Additional hidden layer
+- Attempts to optimize performance were made, including additional input neurons, different activation functions, and additional hidden layers<br>
+<img src= "https://github.com/ChrisBarton107/Neural_Network_Charity_Analysis/blob/main/Resources/Input.png" height="300" width="600"><br>
+<img src= "https://github.com/ChrisBarton107/Neural_Network_Charity_Analysis/blob/main/Resources/Activation.png" height="300" width="700"><br>
+<img src= "https://github.com/ChrisBarton107/Neural_Network_Charity_Analysis/blob/main/Resources/Hidden.png" height="300" width="600"><br>
 
 ## Summary
 Our deep learning neural network didn't achieve the desired outcome of atleast 75% accuracy. The task could potentially be improved by using a Random Forest classifier, which is capable of binary classification
