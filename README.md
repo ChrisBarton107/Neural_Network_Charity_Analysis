@@ -4,7 +4,7 @@ The purpose of the analysis was to classify the success of charitable donations.
 
 ## Results
 ### Data Preprocessing<br>
-- Target column "IS_SUCCESSFUL" is the target for the deep learning neural network
+- Column "IS_SUCCESSFUL" is the target for the deep learning neural network. The network will make a binary classification
 - Feature columns for the deep learning neural network include "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT"
 - Features "EIN" and "NAME" are dropped 
 
